@@ -1,0 +1,83 @@
+.error
+{
+color:red;
+}
+.main-container
+{
+width:90hw;
+margin:40px;
+height:auto;
+border:1px solid black;
+}
+.login-panel
+{
+width:30%;
+height:90px;
+margin:0 auto;
+padding:20px;
+border:1px solid black;
+}
+.header
+{
+margin:5px;
+width:90hw;
+height:60px;
+border:1px solid black;
+}
+.logo
+{
+float:left;
+}
+.brand-name
+{
+margin-top=30px;
+margin-bottom:20px;
+width:500px;
+font-size:25pt;
+float:left;
+}
+.username
+{
+text-align:right;
+margin-right:10px;
+margin-top:5px;
+}
+.content-panel
+{
+width:90hw;
+height:70vh;
+margin:5px;
+border:1px solid white;
+}
+.content-left-panel
+{
+height:65vh;
+margin:5px;
+float:left;
+padding:5px;
+border:1px solid black;
+}
+.content-right-panel
+{
+height:65vh;
+margin-top:5px;
+margin-bottom:5px;
+margin-left:105px;
+margin-right:5px;
+padding:5px;
+overflow:scroll;
+border:1px solid black;
+}
+.footer
+{
+width:90hw;
+height:auto;
+margin:5px;
+text-align:center;
+border:1px solid white;
+}
+.table-heading
+{
+text-align:right;
+padding:5px;
+}
